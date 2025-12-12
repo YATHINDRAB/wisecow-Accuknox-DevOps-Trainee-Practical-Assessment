@@ -1,0 +1,6 @@
+2025-12-12 15:32:42 - Starting health check
+2025-12-12 15:32:43 CPU: %
+2025-12-12 15:32:43 Memory usage: %
+2025-12-12 15:32:43 Disk usage: 55G%
+2025-12-12 15:32:43 ALERT: Process wisecow.sh is NOT running
+2025-12-12 15:32:43 - Health check completed
